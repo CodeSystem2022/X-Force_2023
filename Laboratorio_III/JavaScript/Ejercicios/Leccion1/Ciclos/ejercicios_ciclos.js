@@ -51,3 +51,74 @@ list.forEach(item => {
 
 console.log('El promedio es: ', prom/cont);
 console.log('La calificacion mas baja es: ', calLow)
+
+
+// Ejercicios de Enzo Jesus Cruzate
+
+/*
+    1- Cree un programa en donde haya una lista de 5 numero, y calcule la cantidad de ceros, 
+    la media de los números positivos y la media de los números negativos en la lista.
+*/
+
+const lista = []
+let cantCeros = 0;
+let sumPositivos = 0;
+let cantPositivos = 0;
+let sumNegativos = 0;
+let cantNegativos = 0;
+
+for (let i=0; i<5;i++){
+    lista.push((Math.floor(Math.random()*201)-100));
+}
+
+for (let i=0; i<lista.length;i++){
+    if(lista[i] === 0){
+        cantCeros++;
+    }else if (lista[i]>0){
+        sumPositivos += lista[i];
+        cantPositivos++;
+    }else{
+        sumNegativos += lista[i];
+        cantNegativos++;
+    }
+}
+
+let mediaPositivos = sumPositivos/cantPositivos;
+let mediaNegativos = sumNegativos/cantNegativos;
+
+console.log("La cantidad de ceros es: ",cantCeros)
+console.log("La media de los números positivos es: ",mediaPositivos);
+console.log("La media de los números negativos es: ",mediaNegativos);
+
+
+/*
+    2- Genere una lista de N° enteros, visualizar la suma de los números pares de la lista
+    cuantos números pares existen y cual es el promedio de los números impares.
+*/
+
+const lista = []
+let sumPares = 0;
+let cantPares = 0;
+let cantImpares = 0;
+let sumImpares = 0;
+
+for (let i=0;i<20;i++){
+    lista.push(Math.floor(Math.random()*100)+1);
+}
+
+for (let i=0;i<lista.length;i++){
+    if(lista[i] % 2 == 0){
+        sumPares += lista[i];
+        cantPares++;
+    }else{
+        sumImpares += lista[i];
+        cantImpares++;
+    }
+}
+
+let promImpares = sumImpares/cantImpares;
+
+console.log("La cantidad de números pares es: ",cantPares);
+console.log("La suma de los números pares es: ",sumPares);
+console.log("La cantidad de los números impares es: ",cantImpares)
+console.log("El promedio de los números impares es: ",promImpares)
