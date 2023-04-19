@@ -1,7 +1,7 @@
 # `Repositorio de X-Force, UTN Regional San Rafael Mendoza`
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/112595785/232349066-b306e76b-aa90-4d1e-8732-8b7573b55a96.gif" align="center" style="width: 100%" />
+<img src="https://github.com/jeroalvarez1/X-Force_2023/blob/master/logo_xforce.png" align="center" style="width: 100%" />
 </div>
 
 
