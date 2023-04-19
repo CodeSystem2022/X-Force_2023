@@ -7,33 +7,26 @@
 
 ### `INTEGRANTES:`
 
--:computer: Adan Gomez
+-:computer: Jerónimo Alvarez
 
--:computer: Gonzalo Quiroga Sassu
+-:computer: Enzo Cruzate
 
--:computer: Diego Alvarez
+-:computer: Facundo Flores
 
--:computer: Natán Jabie
+-:computer: Cristian Calzolari
 
--:computer: Hilda Yolanda Ortiz 
+-:computer: Juan Villagram 
 
--:computer: Marcelo Lamas 
-
--:computer: Veronica Cardenas
-
--:computer: Martín Nazareno Maya 
-
+-:computer: Bruno Ojeda
 
 
 ## :calendar: `Organización Semanal`
 
 | **Número de semana** | **Scrum Master** |
 | ---- | ---- |
-| :pencil: semana 1 | *Adan Gomez* |
-| :pencil: semana 2 | *Gonzalo Quiroga Sassu* |
-| :pencil: semana 3 | *Diego Alvarez* |
-| :pencil: semana 4 | *Natán Jabie* |
-| :pencil: semana 5 | *Hilda Yolanda Ortiz* |
-| :pencil: semana 6 | *Marcelo Lamas* |
-| :pencil: semana 7 | *Veronica Cardenas* |
-| :pencil: semana 8 | *Martín Nazareno Maya* |
+| :pencil: semana 1 | *Jerónimo Alvarez* |
+| :pencil: semana 2 | *Enzo Cruzate |
+| :pencil: semana 3 | *Facundo Flores* |
+| :pencil: semana 4 | *Cristian Calzolari* |
+| :pencil: semana 5 | *Juan Villagram* |
+| :pencil: semana 6 | *Bruno Ojeda* |
