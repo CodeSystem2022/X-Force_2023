@@ -177,3 +177,74 @@ calificacionesA.forEach(element => {
 
 console.log("El promedio total es: ",sumCalificaciones / calificacionesA.length);
 console.log("La nota menor es: ",notaMenor);
+
+// Ejercicios de Juan Villagran
+
+/*
+    1- Genere una lista de N° enteros, visualizar la suma de los números pares de la lista, cuantos números pares existen y cuál es el promedio de los números impares.
+*/
+
+const lista = [];
+
+for (let i = 0; i < 10; i++) {
+  const numeroAleatorio = Math.floor(Math.random() * 100) + 1;
+  lista.push(numeroAleatorio);
+}
+console.log(lista);
+let num = 0;
+let prom = 0;
+let contPar = 0;
+let contImpar = 0;
+for (let i = 0; i < lista.length; i++){
+
+  if (lista[i] % 2 === 0) {
+    num += lista[i];
+    contPar++;
+    
+  } else {
+    prom += lista[i];
+    contImpar++;
+  }
+ 
+}
+prom = prom / contImpar;
+
+console.log('La suma de numeros pares es: '+ num);
+console.log('La cantida de numeros pares que hay es de: '+contPar);
+
+console.log('El promedio de los numeros impares es: '+prom)
+
+/* 
+    2 -  Dada una lista con las horas trabajadas de 5 personas y una variable con la tarifa de pago. Calcular el salario de cada uno, y las sumatoria de todos los salarios
+*/ 
+
+let nombres = {
+  "Lucía": 10,
+  "Pablo": 7,
+  "Valentina": 15,
+  "Santiago": 9,
+  "Mariana": 6
+};
+
+
+console.log('la siguente lista contiene los nombres y las horas trabajadas de los empleados');
+console.log(nombres);
+console.log('El valor por hora trabajada es de $650');
+
+let nombre;
+let precioHora = 650;
+for (let nombre in nombres) {
+  nombres[nombre] *= precioHora;
+}
+console.log('El salario de cada uno en pesos es de: ')
+console.log(nombres);
+let sum = 0;
+
+let valores = Object.values(nombres);
+console.log(valores);
+
+let suma = 0;
+for (let i = 0; i < valores.length; i++) {
+  suma += valores[i];
+}
+console.log('La suma del total de los sueldos es de: $'+ suma);
