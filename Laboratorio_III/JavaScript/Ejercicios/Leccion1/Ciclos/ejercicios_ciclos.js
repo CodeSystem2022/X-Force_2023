@@ -248,3 +248,87 @@ for (let i = 0; i < valores.length; i++) {
   suma += valores[i];
 }
 console.log('La suma del total de los sueldos es de: $'+ suma);
+
+// Ejercicios de Bruno Ojeda.
+/*
+    1 - El objetivo es recorrer una lista de números y mostrar el cuadrado de cada uno de ellos. Este proceso debe continuar hasta que se detecte un número negativo en la lista o hasta que se haya recorrido toda la lista.
+*/
+
+const lista = [];
+let bool = true
+
+while (bool == true){
+    let respuesta = false;
+    let number = 0;
+    number = (prompt ("Dame un numero"));
+    if (isNaN(number) == false){
+        lista.push(number);
+    }else{
+        console.log ("La entrada no es un numero, por ende, no se tomó el valor.")
+    }
+
+    while (respuesta == false){
+        let continuar = prompt("¿Desea continuar? Si/No");
+        if (continuar == "Si" || continuar == "si") {
+          bool = true;
+          respuesta = true;
+        } else if (continuar == "No" ||continuar == "no") {
+          bool = false;
+          respuesta = true;
+        } else {
+            console.log("Entrada inválida, escribe 'Si' o 'No'");
+          respuesta = false;
+        }
+    }  
+}
+
+for (var index = 0; index <= (lista.length)-1; index++){
+    if (lista[index] < 0){
+        console.log ("ups, ¡es un numero negativo!, especificamente el"+lista[index]);
+        index = lista.length;
+    }
+    else{
+        console.log ("El elemento número "+ (index+1) +" de la lista es: "+ lista[index] + " y su cuadrado es: "+ (lista[index]**2));
+    }
+}
+console.log ("fin del programa.");
+
+/*
+    2 - Diseñar un programa que en base a un numero aleatorio entre 0 y 2023, nos devuelva por consola si es un año bisiesto o no, reperir esta accion 10 veces.
+*/     
+
+let bool = false;
+const lista = [];
+let listaBiciestos=[];
+
+while (bool == false){
+    let respuesta = prompt ("¿Preparado para iniciar el programa? \n Escribe 'Si' para iniciar.");
+    if (respuesta == "Si"||respuesta == "si"){
+        bool = true;
+    }else{
+        console.log ("excelente, avisa cuando estes listo.");
+        bool = false
+    } 
+}
+
+if (bool == true){
+    let year = 0;
+    for (index = 0; index <=10; index++){
+        year = Math.floor(Math.random() * (2023 - 0) + 0);
+        lista.push(year);
+
+        if ((year % 4) == 0){
+            listaBiciestos.push(year)
+        }
+
+    }
+    if (listaBiciestos.length !=0)
+    console.log ("Los años que salieron son: \n"+lista+
+            "\n De los cuales: \n"+listaBiciestos+" Son biciestos");
+    else{
+        console.log ("Los años que salieron son: \n"+lista+
+            "\n De los cuales ninguno es biciesto");
+    }
+}
+
+console.log ("fin de la simulación");
