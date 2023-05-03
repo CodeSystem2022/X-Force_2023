@@ -247,7 +247,6 @@ let suma = 0;
 for (let i = 0; i < valores.length; i++) {
   suma += valores[i];
 }
-console.log('La suma del total de los sueldos es de: $'+ suma);
 
 // Ejercicios de Bruno Ojeda.
 /*
