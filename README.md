@@ -1,6 +1,31 @@
-# `Repositorio de X-Force, UTN Regional San Rafael Mendoza`
+# **X-FORCE** 
+## *3er Semestre*
+### *UTN Regional San Rafael Mendoza*
+
+
+
+<div align="center">
+<img src="
 
 <div align="center">
 <img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/X_Force_Logo.png" align="center" style="width: 60%" />
 </div>
 
+
+
+
+
+
+## 🙅‍♂️ *Integrantes:*
+
+### 🤖 Facundo Flores
+
+### 🤖 Cristian Calzolari
+
+### 🤖 Bruno Ojeda
+
+### 🤖 Jeronimo Alvarez
+
+### 🤖 Juan Villagran
+
+### 🤖 Enzo Cruzate
