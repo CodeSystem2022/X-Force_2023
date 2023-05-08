@@ -2,7 +2,7 @@
 ## *3er Semestre*
 ### *UTN Regional San Rafael Mendoza*
 
-<br><br><br><br>
+<br><br><br>
 
 <div align="center">
 <img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/LogoXForce%20.gif" align="center" style="width: 2000px" />
@@ -12,10 +12,10 @@
 
 
 <div align="center">
-<img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/logofachero2.0.png" align="center" style="width: 70%" />
+<img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/Tareas.png" align="center" style="width: 90%" />
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ## 🙅‍♂️ *Integrantes:*                                           
 
