@@ -5,14 +5,14 @@
 <br><br><br><br>
 
 <div align="center">
-<img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/X_Force_Logo.png" align="center" style="width: 90%" />
+<img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/LogoXForce%20.gif" align="center" style="width: 2000px" />
 </div>
 
 <br><br><br><br>
 
 
 <div align="center">
-<img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/logofachero2.0.png" align="center" style="width: 100%" />
+<img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/logofachero2.0.png" align="center" style="width: 70%" />
 </div>
 
 <br><br><br><br>
