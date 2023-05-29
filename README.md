@@ -46,3 +46,5 @@
 | 🤖**Semana 8**    | ***Bruno Ojeda***     |
 | 🤖**Semana 9**    | ***Facundo Flores***    |
 | 🤖**Semana 10**   | ***Enzo Cruzate***     |
+| 🤖**Semana 11**    | ***Juan Villagran***    |
+| 🤖**Semana 12**   | ***Cristian Calzolari***     |
