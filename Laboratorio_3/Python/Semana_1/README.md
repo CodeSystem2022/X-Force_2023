@@ -34,6 +34,6 @@
 
 - 1.6 Creación de clases de Exception personalizadas
 
-- 📽 [VIDEO 7](http://campus.frsr.utn.edu.ar/moodle/mod/lesson/view.php?id=28537)
+- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%201%2FClase%201%20Parte%207%20Python%2Emp4&ga=1)
 
 <br>
