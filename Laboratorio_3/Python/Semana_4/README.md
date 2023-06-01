@@ -3,8 +3,8 @@
 
 ---
 
-### *Abrió:* Lunes, 01 de abril de 2023, 19:00
-### *Cierra:* Viernes, 05 de abril de 2023, 23:00
+### *Abrió:* Lunes, 01 de Mayo de 2023, 19:00
+### *Cierra:* Viernes, 05 de Mayo de 2023, 23:00
 
 ---
 
