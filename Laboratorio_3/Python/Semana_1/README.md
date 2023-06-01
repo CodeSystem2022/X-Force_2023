@@ -36,10 +36,4 @@
 
 - 📽 [VIDEO 7](http://campus.frsr.utn.edu.ar/moodle/mod/lesson/view.php?id=28537)
 
-- 4.7 Distintas formas de imprimir un Objeto con: Object.values() y JSON.stringify()
-
-- 📽 [VIDEO 8](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%208%20JavaScript%2Emp4&ga=1)
-
-*En este video vemos las distintas formas de imprimir un Objeto, agregamos el codigo al archivo 1.*
-
 <br>
