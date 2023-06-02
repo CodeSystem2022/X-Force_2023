@@ -1,71 +1,57 @@
-# Clase 4 - JavaScript - Objetos parte 1
+# Clase 4 - Python - Postgresql y Python
 ## Scrum Master Enzo Cruzate
 
 ---
 
-### *Abrió:* Lunes, 01 de Mayo de 2023, 19:00
-### *Cierra:* Viernes, 05 de Mayo de 2023, 23:00
+### *Abrió:* Lunes, 24 de Abril de 2023, 19:00
+### *Cierra:* Viernes, 28 de Abril de 2023, 23:00
 
 ---
 
 ## 📚 Temas:
 
-<br>
+- 4.1 Instalación ded Posgresql en Windows, investigar la instalación en otros sistemas 
 
-- 4.1 Introducción a los Objetos en JavaScript Parte 1 y 2
+- 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%201%20Python%2Emp4&ga=1)
 
-- 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%201%20JavaScript%2Emp4&ga=1)
 
-- 📽 [VIDEO 2](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%202%20JavaScript%2Emp4&ga=1)
+- 4.2 Creamos un base de datos llamada prueba_bd y cargamos una tabla con sus columnas
 
-*En estos videos vemos como crear objetos y como verlos de forma básica, agregamos el codigo al archivo 1.*
+- 📽 [VIDEO 2](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%202%20Python%2Emp4&ga=1)
 
-<br>
 
-- 4.2 Agregamos métodos a los Objetos
+- 4.3 Consultas con código Query en Postgresql Parte 1
 
-- 📽 [VIDEO 3](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%203%20JavaScript%2Emp4&ga=1)
+- 📽 [VIDEO 3](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%203%20Python%2Emp4&ga=1)
 
-*En este video vemos como agregar métodos a los Objetos, agregamos el codigo al archivo 1.*
 
-<br>
+- 4.4 Consultas con código Query en Postgresql Parte 2
 
-- 4.3 Diferentes formas de crear un Objeto
+- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%204%20Python%2Emp4&ga=1)
 
-- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%204%20JavaScript%2Emp4&ga=1)
 
-*En este video vemos otras formas de crear un Objeto, agregamos el codigo al archivo 1.*
+- 4.5 Intalación del módulo Postgresql en PyCharm
 
-<br>
+- 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%205%20Python%2Emp4&ga=1)
 
-- 4.4 Cómo acceder a las propiedades de los Objetos
 
-- 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%205%20JavaScript%2Emp4&ga=1)
+- 4.6 Conexión hacia la base de datos en Python con el método fetchall()
 
-*En este video vemos como acceder a las propiedades de los Objetos, agregamos el codigo al archivo 1.*
+- 📽 [VIDEO 6](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%206%20Python%2Emp4&ga=1)
 
-<br>
 
-- 4.5 Agregar y eliminar propiedades de los Objetos
+- 4.7 Cerramos la conexión y la consulta
 
-- 📽 [VIDEO 6](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%206%20JavaScript%2Emp4&ga=1)
-
-*En este video vemos como agregar y eliminar propiedades de los Objetos, agregamos el codigo al archivo 1.*
+- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%207%20Python%2Emp4&ga=1)
 
 <br>
 
-- 4.6 Ejecutamos desde el navegador
+- 4.8 Lectura recomendada:
 
-- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%207%20JavaScript%2Emp4&ga=1)
-
-*En este video vemos como ejecutar desde el navegador*
+## [Ciberseguridad - Dark Web - Herramienta de ciberseguridad](https://achirou.com/dark-web-herramienta-de-ciberseguridad/?utm_source=email-sendgrid&utm_medium=5088112&utm_campaign=2023-04-21&utm_term=24645730&utm_content=educational)
 
 <br>
 
-- 4.7 Distintas formas de imprimir un Objeto con: Object.values() y JSON.stringify()
+- 4.9 Video recomendado de temas generales, uno de ellos ¿Qué nube escoger AWS, GCP o Azure? Y mucho más sobre AWS Amazon:
 
-- 📽 [VIDEO 8](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%208%20JavaScript%2Emp4&ga=1)
-
-*En este video vemos las distintas formas de imprimir un Objeto, agregamos el codigo al archivo 1.*
-
-<br>
+## [Video Recomendado](https://www.youtube.com/watch?v=DLtTfxQy3Oo)
