@@ -10,6 +10,10 @@
 
 ## 📚 Temas:
 
+<div align="center">
+<img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/Static/Project/como-instalar-postgresql-en-ubuntu-18-04.jpg" align="center" style="width: 75%" />
+</div>
+
 - 4.1 Instalación ded Posgresql en Windows, investigar la instalación en otros sistemas 
 
 - 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%201%20Python%2Emp4&ga=1)
