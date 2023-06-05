@@ -19,17 +19,17 @@
 
 ## 🙅‍♂️ *Integrantes:*                                           
 
-### 🤖 Facundo Flores                                           
+### 🤖 [Facundo Flores](https://github.com/FacundoFlores9)                                           
 
-### 🤖 Cristian Calzolari
+### 🤖 [Cristian Calzolari](https://github.com/CristianChosma)
 
-### 🤖 Bruno Ojeda
+### 🤖 [Bruno Ojeda](https://github.com/BrunoFenyx)
 
-### 🤖 Jeronimo Alvarez
+### 🤖 [Jeronimo Alvarez](https://github.com/jeroalvarez1)
 
-### 🤖 Juan Villagran
+### 🤖 [Juan Villagran](https://github.com/JuanVillagran)
 
-### 🤖 Enzo Cruzate
+### 🤖 [Enzo Cruzate](https://github.com/EnzoCruzate)
 
 <br><br>
 
@@ -46,3 +46,5 @@
 | 🤖**Semana 8**    | ***Bruno Ojeda***     |
 | 🤖**Semana 9**    | ***Facundo Flores***    |
 | 🤖**Semana 10**   | ***Enzo Cruzate***     |
+| 🤖**Semana 11**    | ***Juan Villagran***    |
+| 🤖**Semana 12**   | ***Cristian Calzolari***     |
