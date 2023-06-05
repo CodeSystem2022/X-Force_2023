@@ -38,6 +38,9 @@
 
 - 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%205%20Python%2Emp4&ga=1)
 
+### Los videos 1 al 5 tratan de la instalación y creación de la base de datos de Postgresql 
+
+<br>
 
 - 4.6 Conexión hacia la base de datos en Python con el método fetchall()
 
@@ -47,6 +50,8 @@
 - 4.7 Cerramos la conexión y la consulta
 
 - 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%207%20Python%2Emp4&ga=1)
+
+### En los videos 6 y 7 tratan de la creación de un archivo para realizar la conexión de Python con Postgresql. 
 
 <br>
 
