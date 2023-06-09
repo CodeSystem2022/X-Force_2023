@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lección03/AutoboxingUnboxing/src"/>
+	<classpathentry kind="src" path="Lección03/ForEach/src"/>
+	<classpathentry kind="src" path="Lección03/ModificadoresAcceso/src"/>
+	<classpathentry kind="output" path="Lección03/AutoboxingUnboxing/build/classes"/>
+</classpath>
