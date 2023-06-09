@@ -3,8 +3,8 @@
 
 ---
 
-### *Abrió:* Lunes, 22 de mayo de 2023, 18:36
-### *Cierra:* Miércoles, 31 de diciembre de 2025, 15:36
+### *Abrió:* Lunes, 22 de mayo de 2023, 19:00
+### *Cierra:* Viernes, 22 de mayo de 2023, 23:00
 
 ---
 
