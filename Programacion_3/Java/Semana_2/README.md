@@ -42,7 +42,10 @@
 
 - 1.4 Manejo de bloques de código
 
-- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EQdUvo9cc0ZHtSLn-y-ecHcBHaTmTi9p4F-ujbpyAsa-JA?e=gBWVns)
+- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EfalfaVppz5CmD9lqfuGY24B7vc8STqgA8vrRAaclqhz8w?e=OHWxxi)
+- 📽 [VIDEO 8](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EfS2ZcqtVrlBqVKAzzH5VnwBKmO3NLYcN-LO1rEfDuZQTg?e=sW0stM)
+- 📽 [VIDEO 9](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EXN9aSpUydNPmt-RPFfb_yQB8C38icEkwZGrAvtMBrNrVQ?e=manO9X)
+
 
  *Para finalizar, utilizamos condicionales con arrays. Modificamos "arreglos.js"*
 
