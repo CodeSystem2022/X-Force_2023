@@ -4,7 +4,7 @@
 ---
 
 ### *Abrió:* Miércoles, 5 de abril de 2023, 19:00
-### *Cierra:* Miércoles, 5 de abril de 2023, 19:00
+### *Cierra:* Viernes, 7 de abril de 2023, 23:00
 
 ---
 
