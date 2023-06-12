@@ -1,10 +1,10 @@
-# Clase 4 - JavaScript - Objetos parte 1
+# Clase 10 - Python - Pool de conexiones con Python y Postgresql
 ## Scrum Master Enzo Cruzate
 
 ---
 
-### *Abrió:* Lunes, 01 de Mayo de 2023, 19:00
-### *Cierra:* Viernes, 05 de Mayo de 2023, 23:00
+### *Abrió:* Lunes, 12 de Junio de 2023, 19:00
+### *Cierra:* Viernes, 16 de Junio de 2023, 23:00
 
 ---
 
@@ -12,60 +12,40 @@
 
 <br>
 
-- 4.1 Introducción a los Objetos en JavaScript Parte 1 y 2
+- 10.1 Pool de conexiones con Python y PostgresQL: Parte 1 y 2.
 
-- 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%201%20JavaScript%2Emp4&ga=1)
+<div align="center">
+<img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/Static/Project/Semana%2010.png" align="center" style="width: 2000px" />
+</div>
 
-- 📽 [VIDEO 2](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%202%20JavaScript%2Emp4&ga=1)
+- 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%2010%2FClase%2010%20Parte%201%20Python%2Emp4&ga=1)
 
-*En estos videos vemos como crear objetos y como verlos de forma básica, agregamos el codigo al archivo 1.*
+- 📽 [VIDEO 2](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%2010%2FClase%2010%20Parte%202%20Python%2Emp4&ga=1)
 
-<br>
+*En el video 1 vemos la explicación de los Pool de conexiones con Python y PostgresQL.*
 
-- 4.2 Agregamos métodos a los Objetos
-
-- 📽 [VIDEO 3](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%203%20JavaScript%2Emp4&ga=1)
-
-*En este video vemos como agregar métodos a los Objetos, agregamos el codigo al archivo 1.*
+*En el video 2 vemos como empezar el código para la conexión con Postgres.*
 
 <br>
 
-- 4.3 Diferentes formas de crear un Objeto
+- 10.2 Obtener una conexión a partir del Pool: Parte 1 y 2.
 
-- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%204%20JavaScript%2Emp4&ga=1)
+- 📽 [VIDEO 3](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%2010%2FClase%2010%20Parte%203%20Python%2Emp4&ga=1)
 
-*En este video vemos otras formas de crear un Objeto, agregamos el codigo al archivo 1.*
+- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%2010%2FClase%2010%20Parte%204%20Python%2Emp4&ga=1)
 
-<br>
-
-- 4.4 Cómo acceder a las propiedades de los Objetos
-
-- 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%205%20JavaScript%2Emp4&ga=1)
-
-*En este video vemos como acceder a las propiedades de los Objetos, agregamos el codigo al archivo 1.*
+*En el video 3 y video 4 seguimos con el código para la conexión con Postgres.*
 
 <br>
 
-- 4.5 Agregar y eliminar propiedades de los Objetos
+- 10.3 Pruebas creando objetos del Pool de conexiones
 
-- 📽 [VIDEO 6](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%206%20JavaScript%2Emp4&ga=1)
+- 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%2010%2FClase%2010%20Parte%205%20Python%2Emp4&ga=1)
 
-*En este video vemos como agregar y eliminar propiedades de los Objetos, agregamos el codigo al archivo 1.*
-
-<br>
-
-- 4.6 Ejecutamos desde el navegador
-
-- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%207%20JavaScript%2Emp4&ga=1)
-
-*En este video vemos como ejecutar desde el navegador*
+*En este video debemos realizar pruebas en el archivo conexiones y agregar código correspondiente.*
 
 <br>
 
-- 4.7 Distintas formas de imprimir un Objeto con: Object.values() y JSON.stringify()
+- Video recomendado para práctica
 
-- 📽 [VIDEO 8](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%208%20JavaScript%2Emp4&ga=1)
-
-*En este video vemos las distintas formas de imprimir un Objeto, agregamos el codigo al archivo 1.*
-
-<br>
+# 📚[Link video](https://www.youtube.com/channel/UCpLc0iDjL1_SJBaimhR7CIg)
