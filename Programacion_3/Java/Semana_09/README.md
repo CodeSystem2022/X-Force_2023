@@ -62,6 +62,8 @@
 
 *En este video agregamos el manejo de excepciones, agregamos un try antes de la comprobación del if.*
 
+<br>
+
 - 9.8 Factorizamos el código a través del método mostrarMenu
 
 - 📽 [VIDEO 8](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJava%20Tercer%20Semestre%202023%2FClase%209%2FClase%209%20Parte%208%20Java%2Emp4&ga=1)
@@ -75,6 +77,8 @@
 - 📽 [VIDEO 9](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJava%20Tercer%20Semestre%202023%2FClase%209%2FClase%209%20Parte%209%20Java%2Emp4&ga=1)
 
 *En este video generamos otra función .*
+
+<br>
 
 - 📽 [VIDEO 10](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJava%20Tercer%20Semestre%202023%2FClase%209%2FClase%209%20Parte%2010%20Java%2Emp4&ga=1)
 
