@@ -1,0 +1,10 @@
+creo clase mentor
+
+constructor
+
+todos los atributos privados
+
+
+metodos: getter/setter
+
+to string
