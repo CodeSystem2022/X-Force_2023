@@ -1,10 +1,10 @@
-# Clase 4 - Python - Postgresql y Python
-## Scrum Master Enzo Cruzate
+# Clase 5 - Python - Registros con Postgresql y Python
+## Scrum Master - Juan Villagran
 
 ---
 
-### *Abrió:* Lunes, 24 de Abril de 2023, 19:00
-### *Cierra:* Viernes, 28 de Abril de 2023, 23:00
+### *Abrió:* Lunes, 8 de Mayo de 2023, 19:00
+### *Cierra:* Viernes, 12 de Mayo de 2023, 23:00
 
 ---
 
@@ -14,53 +14,42 @@
 <img src="https://github.com/CodeSystem2022/X-Force_2023/blob/master/Static/Project/como-instalar-postgresql-en-ubuntu-18-04.jpg" align="center" style="width: 75%" />
 </div>
 
-- 4.1 Instalación ded Posgresql en Windows, investigar la instalación en otros sistemas 
+- 5.1 Uso de with y psycopg2
 
-- 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%201%20Python%2Emp4&ga=1)
-
-
-- 4.2 Creamos un base de datos llamada prueba_bd y cargamos una tabla con sus columnas
-
-- 📽 [VIDEO 2](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%202%20Python%2Emp4&ga=1)
+- 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%201%20Python%2Emp4&ga=1)
 
 
-- 4.3 Consultas con código Query en Postgresql Parte 1
+- 5.2 Función fetchone en psycopg2
 
-- 📽 [VIDEO 3](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%203%20Python%2Emp4&ga=1)
-
-
-- 4.4 Consultas con código Query en Postgresql Parte 2
-
-- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%204%20Python%2Emp4&ga=1)
+- 📽 [VIDEO 2](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%202%20Python%2Emp4&ga=1)
 
 
-- 4.5 Intalación del módulo Postgresql en PyCharm
+- 5.3 Función fechall en psycopg2 Parte 1 y 2
 
-- 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%205%20Python%2Emp4&ga=1)
+- 📽 [VIDEO 3](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%203%20Python%2Emp4&ga=1)
 
-### Los videos 1 al 5 tratan de la instalación y creación de la base de datos de Postgresql 
+- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%204%20Python%2Emp4&ga=1)
 
-<br>
+- 5.4 Insertar un registro con psycopg2
 
-- 4.6 Conexión hacia la base de datos en Python con el método fetchall()
+- 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%205%20Python%2Emp4&ga=1)
 
-- 📽 [VIDEO 6](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%206%20Python%2Emp4&ga=1)
+- 5.5 Insertar varios registros
 
+- 📽 [VIDEO 6](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%206%20Python%2Emp4&ga=1)
 
-- 4.7 Cerramos la conexión y la consulta
+- 5.6 Actualizar o modificar un registro
 
-- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud_frsr_utn_edu_ar%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%204%2FClase%204%20Parte%207%20Python%2Emp4&ga=1)
+- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%207%20Python%2Emp4&ga=1)
 
-### En los videos 6 y 7 tratan de la creación de un archivo para realizar la conexión de Python con Postgresql. 
+- 5.7 Actualizar o modificar varios registros
 
-<br>
+- 📽 [VIDEO 8](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%208%20Python%2Emp4&ga=1)
 
-- 4.8 Lectura recomendada:
+- 5.8 Eliminar un registro
 
-## [Ciberseguridad - Dark Web - Herramienta de ciberseguridad](https://achirou.com/dark-web-herramienta-de-ciberseguridad/?utm_source=email-sendgrid&utm_medium=5088112&utm_campaign=2023-04-21&utm_term=24645730&utm_content=educational)
+- 📽 [VIDEO 9](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%209%20Python%2Emp4&ga=1)
 
-<br>
+- 5.9 Eliminar varios registros
 
-- 4.9 Video recomendado de temas generales, uno de ellos ¿Qué nube escoger AWS, GCP o Azure? Y mucho más sobre AWS Amazon:
-
-## [Video Recomendado](https://www.youtube.com/watch?v=DLtTfxQy3Oo)
+- 📽 [VIDEO 10](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FPython%20Tercer%20Semestre%202023%2FClase%205%2FClase%205%20Parte%2010%20Python%2Emp4&ga=1)
