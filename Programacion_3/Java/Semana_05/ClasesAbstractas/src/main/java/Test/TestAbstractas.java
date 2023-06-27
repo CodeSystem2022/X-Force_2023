@@ -9,3 +9,4 @@ public class TestAbstractas {
         figuraGeometrica.dibujar();
     }
 }
+//comentario random
