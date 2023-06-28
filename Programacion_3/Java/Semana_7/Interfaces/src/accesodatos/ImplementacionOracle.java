@@ -1,6 +1,6 @@
 package accesodatos;
 
-
+// Implementacion de Oracle
 public class ImplementacionOracle implements IAccesoDatos {
 
     @Override
