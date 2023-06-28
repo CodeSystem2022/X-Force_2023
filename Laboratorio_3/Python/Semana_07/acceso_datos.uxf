@@ -1,0 +1,47 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes        </help_text><element><id>UMLPackage</id><coordinates><x>150</x><y>170</y><w>750</w><h>660</h></coordinates><panel_attributes>acceso_datos
+--
+bg=NONE
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>190</x><y>230</y><w>210</w><h>250</h></coordinates><panel_attributes>Conexion
+--
+_-DATABASE: String_
+_-USERNAME: String_
+_-PASSWORD: String_
+_-DB PORT: String_
+_-HOST: String_
+_-Conexion" connecction_
+_-cursor: Cursor_
+--
+_+obtenerConexion(cls):Connection_
+_+ObtenerCursor(cls):Cursor_
+_+Cerrar(cls)_
+--
+Responsabilidades:
+Administrar la conexion a la base 
+de datos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>580</x><y>240</y><w>210</w><h>200</h></coordinates><panel_attributes>Persona
+--
+-id_persona: int
+-nombre: String
+-apellido: String
+-email: String
+--
++_str_():String
++metodo Get/Set de cada atributo
+--
+Responsabilidades:
+Crear objetos de la entidad de 
+Persona</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>580</x><y>540</y><w>210</w><h>250</h></coordinates><panel_attributes>PersonaDao
+--
+_-SELECCIONAR: String_
+_-INSERTAR: String_
+_-ACTUALIZAR: String_
+_-ELIMINAR: String_
+_-HOST: String_
+--
+_+seleccionar(cls)_
+_+insertar(cls, persona)_
+_+actualizar(cls, persona)_
+_+eliminar(cls, persona)_
+--
+Responsabilidades:
+Realizar las operaciones sonre la base de datos de la entidad
+Persona</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>470</y><w>320</w><h>180</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>300;160;10;160;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>680</x><y>430</y><w>30</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;110;10;10</additional_attributes></element></diagram>
