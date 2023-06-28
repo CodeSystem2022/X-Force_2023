@@ -4,7 +4,7 @@
 ---
 
 ### *Abrió:* Miércoles, 24 de mayo de 2023, 19:00
-### *Cierra:* Viernes, 26 de diciembre de 2025, 23:00
+### *Cierra:* Viernes, 26 de diciembre de 2023, 23:00
 
 ---
 
