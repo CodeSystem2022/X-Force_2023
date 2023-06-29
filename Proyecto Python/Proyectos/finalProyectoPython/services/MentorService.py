@@ -1,3 +1,4 @@
+from database.connection import establecer_conexion
 from services.EspecializacionService import EspecializacionService
 class MentorService:
 
@@ -18,5 +19,17 @@ class MentorService:
             print("especializacion no encontrada")
             idespe = EspecializacionService.addSpecialization(mentor.get_mentoria(), idmentoria)
             print("Nueva especializacion creada: "+mentor.get_mentoria().lower())
+
+        idespe = EspecializacionService.getIdSpecializationByName(mentor.get_mentoria())
+        conn = establecer_conexion()
+        cursor = conn.cursor()
+        query = "INSERT INTO public.mentores (nombre, apellido, idespe, domicilio, diasdisponibles, preciohora) " \
+                "VALUES (%s, %s, %s, %s, %s, %s)"
+        values = (mentor.get_nombre(), mentor.get_apellido(), idespe, mentor.get_domicilio(), mentor.get_diaSemana(),
+                  mentor.get_precioHora())
+        cursor.execute(query, values)
+        conn.commit()
+        cursor.close()
+        conn.close()
 
         return mentor
