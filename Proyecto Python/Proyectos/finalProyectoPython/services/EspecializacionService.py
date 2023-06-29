@@ -36,3 +36,31 @@ class SpecializationServiceImpl:
         conn.close()
         return especialidades.get_idmen()
         #print(especialidades.get_nombre(), especialidades.get_idmen())
+        
+    @classmethod
+    def addMentoria(cls, nombreMentoria):
+        nuevaMentoria = Mentorias(nombreMentoria)
+        conn = establecer_conexion()
+        cursor = conn.cursor()
+        query = "INSERT INTO public.mentorias (nombre) VALUES (%s) RETURNING (ids, nombre)"
+        values = (nuevaMentoria.get_nombre(),)
+        cursor.execute(query, values)
+        guardado = cursor.fetchone()[0]
+        conn.commit()
+        cursor.close()
+        conn.close()
+        return guardado
+
+    @classmethod
+    def refreshMentoria(cls):
+        conn = establecer_conexion()
+        cursor = conn.cursor()
+        query = "SELECT ids FROM mentorias ORDER BY ids DESC LIMIT 1;"
+        conn = establecer_conexion()
+        cursor = conn.cursor()
+        cursor.execute(query,)
+        record = cursor.fetchone()
+        cursor.close()
+        conn.close()
+        idmentoria = record[0]
+        return idmentoria
