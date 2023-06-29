@@ -1,3 +1,0 @@
-Creo interfaz de la clase mentor
-
-Agrego los metodos de la clase a la interfaz
