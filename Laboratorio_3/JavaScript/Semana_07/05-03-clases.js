@@ -1,6 +1,6 @@
 //let persona3 = new Persona('Carla', 'Ponca'); // Esto no se debe hacer: Persona is not definid
 
-class Persona{ //Clase Padre
+class Persona { //Clase Padre
     constructor(nombre, apellido){
         this._nombre = nombre;
         this._apellido = apellido;
@@ -25,9 +25,14 @@ class Persona{ //Clase Padre
     nombreCompleto(){
         return this._nombre+' '+this._apellido;
     }
+
+    toString(){
+        //Devuelve un string
+        return this.nombreCompleto();
+    }
 }
 
-class Empleado extends Persona{ //Clase hija
+class Empleado extends Persona { //Clase hija
     constructor(nombre, apellido, departamento){
         super(nombre, apellido);
         this._departamento = departamento;
@@ -63,4 +68,7 @@ let empleado1  = new Empleado('Maria', 'Gimenez', 'Sistemas');
 console.log(empleado1);
 console.log(empleado1.nombreCompleto());
 
+//Object.prototype.toString
 
+console.log(empleado1.toString());
+console.log(persona1.toString());
