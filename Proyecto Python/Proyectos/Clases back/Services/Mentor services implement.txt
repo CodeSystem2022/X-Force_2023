@@ -1,3 +1,0 @@
-Clase que implementa todos los metodos de la interfaz y agrega contenido.
-
-itera la clase
