@@ -1,4 +1,4 @@
-# Clase 8 - Java - Clase 8 Escepciones en java
+# Clase 8 - Java - Clase 6 Escepciones en java
 ## Scrum Master Bruno Ojeda
 
 ---
