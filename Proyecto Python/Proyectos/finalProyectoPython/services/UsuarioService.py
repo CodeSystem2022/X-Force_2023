@@ -2,7 +2,7 @@ from database.connection import establecer_conexion
 from entities.Mentor import Mentor
 
 
-class UsuarioServiceImpl:
+class UsuarioService:
 
     @classmethod
 
