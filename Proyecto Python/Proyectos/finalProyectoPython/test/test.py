@@ -1,5 +1,5 @@
 from entities.Mentor import Mentor
-from services import UsuarioService
+from services.UsuarioService import UsuarioService
 
 mentor0 = Mentor('Santiago', 'Policastro', 'Cocteleria', 'Calle alberdi N° 37', 1200, 'Lunes, Martes')
 mentor1 = Mentor('Angel', 'Villoldo', 'Piano', 'Calle Mayo N° 37', 1000, 'Lunes, Martes')

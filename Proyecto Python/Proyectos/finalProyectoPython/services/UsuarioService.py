@@ -5,7 +5,6 @@ from entities.Mentor import Mentor
 class UsuarioService:
 
     @classmethod
-
     def mainFind(cls, especializacion):
         busqueda = cls.findmentores(especializacion)
         cls.createMentorObject(busqueda)
@@ -14,7 +13,6 @@ class UsuarioService:
 
 
     @classmethod
-
     def findmentores(cls, especializacion):
         especializacion = especializacion.lower()
         query = "SELECT * FROM public.especializacion WHERE nombreesp = %s"
@@ -32,7 +30,6 @@ class UsuarioService:
 
 
     @classmethod
-
     def findMaxMentores(cls, idment):
         mentors = []
 
