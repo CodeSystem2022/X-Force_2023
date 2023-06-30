@@ -1,10 +1,10 @@
-# Clase 8 - Java - Clase 6 Escepciones en java
+# Clase 8 - JavaScript - Static
 ## Scrum Master Bruno Ojeda
 
 ---
 
-### *Abrió:* lunes, 29 de mayo de 2023, 19:00
-### *Cierra:* viernes, 2 de junio de 2023, 23:00
+### *Abrió:* lunes, 29 de mayo de 2023, 08:41
+### *Cierra:* viernes, 2 de abril de 2023, 23:00
 
 ---
 
@@ -12,54 +12,40 @@
 
 <br>
 
-- 1.1 Introducción a JavaBeans -> Creación del JavaBeans
+Continuamos con la palabra reservada static:
 
-- 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EXpPEt1g03VIlyZk_ng3bFMBnVV1xZXjQjan7h4rRZxFTA?e=7oU5TS)
+- 8.1 Palabra static con métodos: Parte 1 y 2
 
- *Analizamos que es una escepcion en Java*
+- 📽 [VIDEO 1](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%207%2FClase%207%20Parte%201%20JavaScript%2Emp4&ga=1)
 
-<br>
-
-- 1.2 Pruebas del JavaBeans
-
-- 📽 [VIDEO 2](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/ER533JxYKJZKnZ6Id4E9qCIB-M1Ku_0r0SqRucwUfc-jww?e=MLg6eB)
-
- *Se crea el archivo correspondiente*
+- 📽 [VIDEO 2](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%207%2FClase%207%20Parte%202%20JavaScript%2Emp4&ga=1)
 
 <br>
 
-- 1.3 Comenzamos Con Excepciones -> Parte 1, 2 , 3 y 4
+- 8.2 Atributos estáticos
 
-- 📽 [VIDEO 3](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EQ8M8IMZ59hGqn8wp58LBdgBlAknI9NhGvpN6y_9YMvWPA?e=tslcKD)
-- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/ETdESUUxrilJl-6Cm1oAUx0BN0bHzMTzc6EKvA7s9IJqUA?e=glVAzB)
-- 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/Ebp_UqQNdKhCmi1unpbIUhUBy8k40Mc1GvFzlPJIh2SE9A?e=zuEhAx)
-- 📽 [VIDEO 6](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EVV4FdUgZZJPlMTLfaySwIcByj8itejsBrMuqdbz5MS6Iw?e=uBbMIP)
-
-
-*Creamos el archivo "Test escepciones 1" siguiendo los pasos del video 3, 4 y 6.*
+- 📽 [VIDEO 3](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%207%2FClase%207%20Parte%203%20JavaScript%2Emp4&ga=1)
 
 <br>
 
-- 1.4 Creamos nuestra propia excepción -> Parte 1, 2 y 3
+- 8.3 Atributos estáticos vs No estáticos
 
-- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/ERvcKELCgNBIudsGVeKR6CwBFlUjGS92lIml2hQb6OzuOA?e=1UzYAR)
-- 📽 [VIDEO 8](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/ESR52qzAYzBHtQgzfEDNvtcBF0sjp6MmLfY3mtncOyMiSQ?e=hn9bcN)
-- 📽 [VIDEO 9](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EaJmcFyGn7tAv36npNwhGYIB0Rw5r-PQ4Xy4HV8y_5_3Xg?e=PG4Cva)
-
-
- *creamos el archivo del video "OperacionEscepcion" y "Aritmetica" siguiendo los videos 7, 8 y 9*
-
- <br>
-
-- 1.5 Comenzamos a hacer pruebas con RuntimeException (unchecked)
-
-- 📽 [ VIDEO 10](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/ETzOsdeunPhPrg5kEXX1qE4BMnX01PZKkOG3J2EC7JWjMg?e=XEGYgb)
-
- *Modificamos "OperacionEscepcion"*
-
+- 📽 [VIDEO 4](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%207%2FClase%207%20Parte%204%20JavaScript%2Emp4&ga=1)
 
 <br>
 
-- 1.6 Agregamos el finally y catch
+- 8.4 Uso de la palabra static: Parte 1 y 2
 
-- 📽 [VIDEO 11](https://frsrutneduar-my.sharepoint.com/:v:/g/personal/abetancud_frsr_utn_edu_ar/EUjHpvZG8l9OjPGxUu1PK8ABmVwFcvKnAPyKBygYjP4PBw?e=Ia2Mbm)
+- 📽 [VIDEO 5](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%207%2FClase%207%20Parte%205%20JavaScript%2Emp4&ga=1)
+
+- 📽 [VIDEO 6](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%207%2FClase%207%20Parte%206%20JavaScript%2Emp4&ga=1)
+
+<br>
+
+- 8.5 Creación de constantes estáticas
+
+- 📽 [VIDEO 7](https://frsrutneduar-my.sharepoint.com/personal/abetancud_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabetancud%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FJavaScript%20Tercer%20Semestre%202023%2FClase%207%2FClase%207%20Parte%207%20JavaScript%2Emp4&ga=1)
+
+
+
+

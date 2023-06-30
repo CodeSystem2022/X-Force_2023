@@ -1,4 +1,4 @@
-# Clase 6 - Phyton - Clase 6 Manejo de Archivos 
+# Clase 6 - Javascript - Clase 2 Arreglos
 ## Scrum Master Bruno Ojeda
 
 ---
